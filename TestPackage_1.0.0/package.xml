@@ -1317,7 +1317,9 @@ input[type=search] {
     line-height: 1.5;
     border-radius: 3px
 }
-
+.NepostoeckaKlasa{
+width: 100%;
+}
 .input-group-sm > .input-group-btn > select.btn, .input-group-sm > select.form-control, .input-group-sm > select.input-group-addon, select.input-sm {
     height: 30px;
     line-height: 30px
